@@ -89,15 +89,6 @@ Extension giúp bạn trích xuất dữ liệu từ bảng Ahrefs với các t�
 - Refresh trang Ahrefs
 - Thử lại
 
-## 📋 Format File Xuất Ra
-
-File CSV có cấu trúc:
-```
-Target,DR,Keywords,Top 20,Organic Traffic,Referring domains
-example.com,75,1234,257,12.5K,445
-domain.net,82,2156,457,23.8K,678
-```
-
 ## 💡 Tips Sử Dụng
 
 1. **Đợi trang load xong** trước khi scrape
